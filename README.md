@@ -113,9 +113,11 @@ Deployment to cloud (AWS/GCP/Azure) with containerization (Docker).
 
 👨‍💻 Author
 Ali Sena Danishwer
+
 Software Developer and Data Scientist
 
 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
