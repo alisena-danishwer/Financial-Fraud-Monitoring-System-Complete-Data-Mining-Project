@@ -62,30 +62,11 @@ Financial fraud is one of the biggest threats to banking and e-commerce. This pr
 - `Flask` or `Streamlit` (for dashboard deployment)  
 
 ## 🏗️ Project Structure
-fraud-monitoring-system/
-│
-├── data/ # Datasets (Kaggle, synthetic, etc.)
-├── notebooks/ # Jupyter notebooks for each module
-│ ├── 1_association_rules.ipynb
-│ ├── 2_time_series.ipynb
-│ ├── 3_recommender.ipynb
-│ ├── 4_anomaly_detection.ipynb
-│ └── 5_fusion_and_scoring.ipynb
-│
-├── src/ # Python modules
-│ ├── preprocessing.py
-│ ├── association_rules.py
-│ ├── timeseries.py
-│ ├── recommender.py
-│ ├── anomaly_detection.py
-│ └── fusion.py
-│
-├── dashboard/ # Streamlit/Flask app for alerts
-│ └── app.py
-│
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── LICENSE
+
+
+<img width="460" height="614" alt="image" src="https://github.com/user-attachments/assets/0ca06b22-97b7-4f75-8e3f-dd95d53f6088" />
+
+
 
 ----
 ## 📌 How to Run
@@ -94,7 +75,7 @@ fraud-monitoring-system/
    git clone https://github.com/your-username/fraud-monitoring-system.git
    cd fraud-monitoring-system
 
-Install dependencies:
+## 📌 Install dependencies:
 
 pip install -r requirements.txt
 
@@ -139,4 +120,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-## 🏗️ Project Structure
