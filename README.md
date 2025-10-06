@@ -1,4 +1,4 @@
-# Financial-Fraud-Monitoring-System-Complete-Data-Mining-Project
+# Financial-Fraud-Monitoring-System [Complete-Data-Mining-Project]
 # 🛡️ Financial Fraud Monitoring System
 
 A data mining project that integrates **multiple techniques** —  
